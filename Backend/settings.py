@@ -115,7 +115,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'nomaBackend.wsgi.application'
+WSGI_APPLICATION = 'Backend.wsgi.application'
 
 
 # Database
