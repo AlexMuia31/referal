@@ -97,7 +97,7 @@ CORS_ORIGIN_WHITELIST = [
 ]
 
 
-ROOT_URLCONF = 'nomaBackend.urls'
+ROOT_URLCONF = 'Backend.urls'
 
 TEMPLATES = [
     {
