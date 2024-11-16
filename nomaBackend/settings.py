@@ -57,7 +57,7 @@ MIDDLEWARE = [
 ]
 
 CORS_ALLOWED_ORIGINS = [
-    'https://noma-referral.vercel.app',
+    'https://referal-front-end.vercel.app',
     'http://localhost:3000',
     'http://127.0.0.1:5173',
    
